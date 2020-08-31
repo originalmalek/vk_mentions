@@ -66,7 +66,7 @@ def main():
 
     vk_access_token = os.getenv('VK_ACCESS_TOKEN')
     search_request = 'coca cola'
-    day_range = 6
+    day_range = 30
 
     print_plot(vk_access_token, search_request, day_range)
 
