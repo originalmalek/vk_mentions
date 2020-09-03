@@ -39,7 +39,7 @@ You have to enter your search request. For it change variable 'search_request' i
 ```
 search_request = your_search_request
 ```
-Also you can change for how many days you want to get statistic. For it change variable 'previous_days' in **main()** function:
+Also you can change how many days you want to get statistic. For it change variable 'previous_days' in **main()** function:
 ```
 day_range = 30
 ```
