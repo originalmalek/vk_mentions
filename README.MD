@@ -4,7 +4,7 @@ The project get mentions for previous days and make plot with it.
 
 ## Description
 The code: 
-Downloads random comic from [XKCD](https://xkcd.com/) and posts the comic to [VK.com](https://vk.com) public automatically using API.
+The project get mentions for previous days and make plot with it. 
 
 * The project uses:   
   * [VK API](https://vk.com/dev).
@@ -37,7 +37,7 @@ python main.py
 ## Additional information
 You have to enter your search request. For it change variable 'search_request' in **main()** function:
 ```
-group_id = your_group_ID
+search_request = your_search_request
 ```
 Also you can change for how many days you want to get statistic. For it change variable 'previous_days' in **main()** function:
 ```
